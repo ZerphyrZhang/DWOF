@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.302,D:\Projects\dwof8\Adwof8.dproj=D:\Projects\dwof8\Adwof.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="lib"/>
+    <File Path="lib\logmanagerpas.pas"/>
+    <File Path="lib\MessageDigest_5.pas"/>
+    <File Path="lib\superdate.pas"/>
+    <File Path="lib\superobject.pas"/>
+    <File Path="lib\supertimezone.pas"/>
+    <File Path="lib\supertypes.pas"/>
+    <File Path="lib\superxmlparser.pas"/>
+    <File Path="lib\SynCommons.pas"/>
+    <File Path="lib\uAuthentication.pas"/>
+    <File Path="public"/>
+    <File Path="public\CommonUtil.pas"/>
+    <File Path="public\Contants.pas"/>
+    <File Path="public\DBML.pas"/>
+    <File Path="public\DBML.dfm"/>
+    <File Path="public\ElnManager.pas"/>
+    <File Path="public\ElnUtils.pas"/>
+    <File Path="public\Errors.pas"/>
+    <File Path="public\ExcelUnit.pas"/>
+    <File Path="public\LicenseUtils.pas"/>
+    <File Path="public\LoginUtils.pas"/>
+    <File Path="public\LogUtils.pas"/>
+    <File Path="public\MD5.pas"/>
+    <File Path="public\ResUtils.pas"/>
+    <File Path="public\RTC_CLTPOOL.pas"/>
+    <File Path="public\RTC_DBPOOL.pas"/>
+    <File Path="public\SourceUnit.pas"/>
+    <File Path="public\SQLCachesUnit.pas"/>
+    <File Path="public\TDBPack.pas"/>
+    <File Path="public\THighlander_rtcClientPool.pas"/>
+    <File Path="public\THighlander_rtcDatabasePool.pas"/>
+    <File Path="public\uThreadPool.pas"/>
+    <File Path="public\XmlUtils.pas"/>
+    <File Path="public\XmlUtils1.pas"/>
+    <File Path="MainFormUnit.pas"/>
+    <File Path="MainFormUnit.dfm"/>
+    <File Path="AboutUsUnit.pas"/>
+    <File Path="AboutUsUnit.dfm"/>
+    <File Path="SettingUnit.pas"/>
+    <File Path="SettingUnit.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
