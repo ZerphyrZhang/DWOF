@@ -2,7 +2,7 @@ object MainForm: TMainForm
   Left = 271
   Top = 114
   BorderStyle = bsSingle
-  Caption = #33713#24494'LIMS'#26381#21153#22120
+  Caption = 'DWOF'#26381#21153#22120
   ClientHeight = 285
   ClientWidth = 845
   Color = clBtnFace
@@ -609,7 +609,7 @@ object MainForm: TMainForm
       end
       item
         Alignment = taRightJustify
-        Text = #169'2016-2018 '#23665#19996#33713#24494#36719#20214#31185#25216#26377#38480#20844#21496' '#29256#26435#25152#26377'      '
+        Text = #169'2016-2020  '#29256#26435#25152#26377'      '
         Width = 50
       end>
   end
