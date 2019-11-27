@@ -1,5 +1,39 @@
 # DWOF
 
+A good back-end service. The back-end uses XML files to operate the database, which is similar to a layer of physical firewall, rather than directly operating the database.
+
+
+
+
+
+For convenience, JSON format data is used for front and back interaction.
+
+
+
+
+Custom load balancing can flexibly add / delete nodes (multiple servers) according to project usage.
+
+
+
+
+Support multiple databases (currently mysql, Oracle, and other databases will be integrated later).
+
+
+
+
+At present, the author is integrating the master http.sys, which has been used in the project, and will update the stable version later.
+
+
+
+
+The current version communicates with each other through WebService, and some problems are found in the actual project. Post has been integrated in the new version instead.
+
+
+
+
+Welcome to put forward more valuable suggestions, welcom everyone
+
+----------------------------------------------------------------------------------------------------------beautiful spliter
 
 一种不错的后端服务，后端通过XML文件操作数据库，类似一层物理防火墙，不是直接操作数据库。
 
